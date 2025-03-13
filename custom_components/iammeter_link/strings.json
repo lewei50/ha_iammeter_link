@@ -1,0 +1,17 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Define your IAMMETER-Link connection",
+        "description": "Enter IAMMETER-Link configuration details"
+      }
+    },
+    "error": {
+      "already_configured": "This device is already configured.",
+      "cannot_connect": "Failed to connect to IAMMETER-Link."
+    },
+    "abort": {
+      "already_configured": "This device is already configured."
+    }
+  }
+}
