@@ -8,5 +8,5 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/lewei50/ha_iammeter_link/issues",
   "requirements": ["aiohttp"],
-  "version": "1.0.0"
+  "version": "v1.0.1"
 }
