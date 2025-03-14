@@ -1,12 +1,12 @@
 {
   "domain": "iammeter_link",
   "name": "IAMMETER-Link",
-  "documentation": "https://github.com/lewei50/ha_iammeter_link",
-  "issue_tracker": "https://github.com/lewei50/ha_iammeter_link/issues",
-  "dependencies": [],
   "codeowners": ["@lewei50"],
-  "requirements": ["aiohttp"],
   "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/lewei50/ha_iammeter_link",
   "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/lewei50/ha_iammeter_link/issues",
+  "requirements": ["aiohttp"],
   "version": "1.0.0"
 }
